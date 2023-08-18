@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @AbdullaMogal
-- 👀 I’m Software Developer 
-- 🌱 Having Experience Senior Software Engineer In 9 Years
-- 💞️I Would Like To Become An Engineering Lead Or Team Manager
-- 📫 As A Full Stack Webdeveloper With Your Bussiness I Know I Would Be Able To Take On Number Of Wide Rangeing 
-Resseponisiblebility Related To The
-Commpany Web Effects..
-<!---
-AbdullaMogal/AbdullaMogal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+World Software Company
+ 
+
+Stock Prediction.
+Lane line detection while driving.
+AI Health Engine.
+AI-powered Search engine.
+House Security.
+Loan Eligibility Prediction.
+Resume Parser.
+Animal Species Prediction
+
+Big Idea #1 – Perception.
+Big Idea #2 – Representation & Reasoning.
+Big Idea #3 – Learning.
+Big Idea #4 – Natural Interaction.
+Big Idea #5 – Societal ImpactAI services and machine learning to its massive customer base. ....!
+
+Abdulla Mogal
+
+CEO 
+
+World Software Company
+
